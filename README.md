@@ -20,6 +20,11 @@ We take the security of our users and the integrity of our project seriously.
 
 * **Developer IP Protection**: The executable version of this game, available in the Releases, is packaged using third-party software to protect the underlying source code. This prevents reverse-engineering and safeguards the developer's intellectual property.
 
+## 🛠️ Technologies Used
+
+* **Language:** Java
+* **Database:** MySQL, applying core Database Management System (DBMS) concepts for data persistence.
+* **Core Concepts:** Utilizes fundamental Data Structures and showcases a layered architecture with Object-Oriented Programming (OOP) principles.
 ---
 
 ## 🚀 Getting Started
@@ -73,12 +78,6 @@ You will need to have the following installed on your machine:
 
 ---
 
-## 🛠️ Technologies Used
 
-* **Language:** Java
-* **Database:** MySQL, applying core Database Management System (DBMS) concepts for data persistence.
-* **Core Concepts:** Utilizes fundamental Data Structures and showcases a layered architecture with Object-Oriented Programming (OOP) principles.
-
----
 
 

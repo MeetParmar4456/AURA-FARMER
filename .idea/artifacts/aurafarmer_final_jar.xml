@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aurafarmer_final:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/aurafarmer_final_jar</output-path>
+    <root id="archive" name="aurafarmer_final.jar">
+      <element id="module-output" name="aurafarmer_final" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-8.1.0.jar" path-in-jar="/" />
+      <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-j-8.1.0.jar" />
+    </root>
+  </artifact>
+</component>

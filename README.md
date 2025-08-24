@@ -12,6 +12,14 @@ Aura Farmer is a command-line RPG focused on grinding and resource management. Y
 * **Marketplace**: Use the `shop` to buy essential tools and the `sell` command to offload items for profit.
 * **PvP Arena**: Challenge other players to an "Aura Rush" to see who can earn the most Auras in a set time. The winner takes their earnings; the loser's balance is reset to zero.
 
+## 🔒 Security and Privacy
+
+We take the security of our users and the integrity of our project seriously.
+
+* **User Privacy**: Your security is a priority. All user passwords are **salted and hashed** using a strong cryptographic algorithm before being stored in the database. We never store passwords in plain text, ensuring your account credentials remain protected.
+
+* **Developer IP Protection**: The executable version of this game, available in the Releases, is packaged using third-party software to protect the underlying source code. This prevents reverse-engineering and safeguards the developer's intellectual property.
+
 ---
 
 ## 🚀 Getting Started
@@ -73,10 +81,4 @@ You will need to have the following installed on your machine:
 
 ---
 
-## 🔒 Security and Privacy
 
-We take the security of our users and the integrity of our project seriously.
-
-* **User Privacy**: Your security is a priority. All user passwords are **salted and hashed** using a strong cryptographic algorithm before being stored in the database. We never store passwords in plain text, ensuring your account credentials remain protected.
-
-* **Developer IP Protection**: The executable version of this game, available in the Releases, is packaged using third-party software to protect the underlying source code. This prevents reverse-engineering and safeguards the developer's intellectual property.
